@@ -1,4 +1,6 @@
-- 👩🏻‍💻 I am currently computer programming studeng.
+### Hi👋 I'm Merve.
+
+- 👩🏻‍💻 I'm currently a computer programming student.
 - 💌 You can reach me on [merveackalmazzzz@gmail.com](mailto:merveackalmazzzz@gmail.com)
 
 
