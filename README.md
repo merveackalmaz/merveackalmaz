@@ -1,6 +1,6 @@
 ### Hi👋 I'm Merve.
 
-- 👩🏻‍💻 I'm currently a first year student in Computer Programming at Celal Bayar University
+- 👩🏻‍💻 I'm currently Computer Programming student at Celal Bayar University
 - 💌 You can reach me on [merveackalmazzzz@gmail.com](mailto:merveackalmazzzz@gmail.com)
 
 
